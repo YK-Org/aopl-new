@@ -77,7 +77,7 @@
 					>
 						Authentic Ghanaian <br class="hidden sm:block" />
 						<span class="text-orange-300">Palm Oil</span> Conveniently Packaged
-						in Tins & Gallons
+						in Cans & Gallons
 					</h1>
 					<h2
 						class="text-center text-lg sm:text-2xl font-light text-white drop-shadow-2xl"
