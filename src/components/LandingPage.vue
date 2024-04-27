@@ -1,3 +1,4 @@
+
 <template>
 	<div class="h-full w-full bg-white">
 		<!-- top navigation -->
@@ -82,7 +83,7 @@
 					<h2
 						class="text-center text-lg sm:text-2xl font-light text-white drop-shadow-2xl"
 					>
-						Experience the Richness and Purity of Our Homegrown Palm Oil, Direct
+						Experience the Richness and Purity of Our Palm Oil from Homegrown palm trees, Direct
 						from Ghana
 					</h2>
 
