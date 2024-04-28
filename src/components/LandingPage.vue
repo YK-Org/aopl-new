@@ -74,7 +74,7 @@
 			>
 				<div class="flex h-full w-full flex-col gap-4 items-center">
 					<h1
-						class="text-center font-black text-orange-100 text-5xl sm:text-8xl drop-shadow-2xl break-all"
+						class="text-center font-black text-orange-100 text-5xl sm:text-8xl drop-shadow-2xl trucking-tight "
 					>
 						Authentic Ghanaian <br class="hidden sm:block" />
 						<span class="text-orange-300">Palm Oil</span> Conveniently Packaged
